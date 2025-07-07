@@ -162,7 +162,11 @@ Set
 Understanding which product categories perform best helps the business focus its resources on the most profitable lines. It also reveals shifts in customer preferences and potential areas of saturation or growth.
 
 **What the data shows:**
-"Classic Cars" consistently lead in revenue, quantity ordered, and order volume — solidifying their role as the company’s flagship product. "Motorcycles" and "Planes" show steady growth year-over-year, indicating rising customer interest in those categories. Other lines, such as "Ships" and "Vintage Cars," remain flat or underperform.
+- **Classic Cars** dominate across all performance metrics — highest in revenue ($3.9M), orders (967), quantity (33,992), and customers (89). This solidifies their position as the flagship product.
+- **Vintage Cars** rank second in both revenue and customer engagement, indicating consistent popularity and reliability.
+- **Motorcycles** and **Planes** showed strong growth in 2004 but experienced sharp declines in 2005 — suggesting inconsistent or campaign-driven demand.
+- **Ships**, **Trains**, and **Trucks and Buses** perform moderately, with lower customer engagement and order volumes, and may benefit from targeted promotions or repositioning.
+
 
 **Business implications:**
 - Classic Cars should remain central to inventory, marketing, and promotional strategy.
